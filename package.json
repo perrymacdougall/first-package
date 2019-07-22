@@ -1,6 +1,6 @@
 {
   "name": "ff-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "``` npm i ff-component ```",
   "main": "index.js",
   "scripts": {
