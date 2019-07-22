@@ -1,7 +1,7 @@
 # Getting Started
 
 ```
-npm i perrys-component
+npm i ff-component
 ```
 
-import 'ff' from 'perrys-component'
+import 'ff' from 'ff-component'
